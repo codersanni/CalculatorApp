@@ -1,0 +1,19 @@
+.display {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 2em;
+    text-align: right;
+  }
+  
+  .input {
+    font-size: 0.5em;
+    color: #aaa;
+  }
+  
+  .result {
+    font-size: 1em;
+  }
+  
